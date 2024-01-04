@@ -15,8 +15,6 @@ Install the required libraries using:
 pip install opencv-python
 pip install face_recognition
 
-The script will read the image, perform face detection using two different models (HOG and CNN), and display the number of faces found in the image using each model.
-
 ## Description
 The Python script face_detection.py performs face detection using two models:
 
