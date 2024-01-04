@@ -1,5 +1,6 @@
 # Face Detection using OpenCV and face_recognition
 
+## Introduction
 This repository contains a Python script to detect faces in an image using OpenCV and the `face_recognition` library.
 
 ## Requirements
@@ -13,7 +14,7 @@ Install the required libraries using:
 pip install opencv-python
 pip install face_recognition
 
-Description
+## Description
 The Python script face_detection.py performs face detection using two models:
 
 HOG: Histogram of Oriented Gradients
