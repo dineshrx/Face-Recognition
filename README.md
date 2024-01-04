@@ -1,6 +1,8 @@
 # Face Detection using OpenCV and face_recognition
 
 This repository contains a Python script to detect faces in an image using OpenCV and the `face_recognition` library.
+## Output
+![Capture](https://github.com/dineshrx/Face-Recognition/assets/144202549/a907450b-9601-4b04-8fed-e9c47e9217f0)
 
 ## Requirements
 
