@@ -1,4 +1,4 @@
-# Face Detection using OpenCV and face_recognition
+# Face Detection using HOG and CNN
 
 This repository contains a Python script to detect faces in an image using OpenCV and the `face_recognition` library.
 ## Output
